@@ -26,7 +26,7 @@
       <file leaf-file-name="posts_list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/views/posts/posts_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,16 @@
       <file leaf-file-name="post_item.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/views/posts/post_item.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="8" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
+            <state line="5" column="8" selection-start="168" selection-end="168" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fixtures.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="fixtures.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/fixtures.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="7" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+            <state line="21" column="28" selection-start="497" selection-end="497" vertical-scroll-proportion="0.36713287" vertical-offset="0" max-vertical-offset="858">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="publications.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/publications.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="3" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+            <state line="2" column="3" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="120">
               <folding />
             </state>
           </provider>
@@ -95,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="7" selection-start="260" selection-end="260" vertical-scroll-proportion="0.20689656" vertical-offset="0" max-vertical-offset="1015">
+            <state line="14" column="7" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AWS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="67" selection-start="1917" selection-end="1917" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="915">
               <folding />
             </state>
           </provider>
@@ -116,18 +125,19 @@
       <list>
         <option value="$PROJECT_DIR$/client/views/posts/post_item.js" />
         <option value="$PROJECT_DIR$/collections/posts.js" />
-        <option value="$PROJECT_DIR$/server/fixtures.js" />
         <option value="$PROJECT_DIR$/client/views/posts/posts_list.js" />
         <option value="$PROJECT_DIR$/server/publications.js" />
         <option value="$PROJECT_DIR$/client/main.js" />
+        <option value="$PROJECT_DIR$/../AWS/index.html" />
+        <option value="$PROJECT_DIR$/server/fixtures.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1127" />
-    <option name="y" value="57" />
+    <option name="x" value="427" />
+    <option name="y" value="89" />
     <option name="width" value="1416" />
-    <option name="height" value="1162" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -223,6 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AWS/index.html" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -234,14 +245,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -250,6 +253,21 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -275,7 +293,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1127" y="57" width="1416" height="1162" extended-state="0" />
+    <frame x="427" y="89" width="1416" height="1004" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -309,13 +327,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/views/posts/posts_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/views/posts/post_item.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="8" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
@@ -358,20 +369,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/views/posts/post_item.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="8" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/views/posts/posts_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/views/posts/post_item.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="5" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
@@ -393,16 +390,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/fixtures.js">
+    <entry file="file://$PROJECT_DIR$/server/publications.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+        <state line="2" column="3" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/publications.js">
+    <entry file="file://$PROJECT_DIR$/client/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="3" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+        <state line="14" column="7" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AWS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="67" selection-start="1917" selection-end="1917" vertical-scroll-proportion="-19.375" vertical-offset="0" max-vertical-offset="915">
           <folding />
         </state>
       </provider>
@@ -414,9 +418,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/main.html">
+    <entry file="file://$PROJECT_DIR$/client/views/posts/posts_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="7" selection-start="260" selection-end="260" vertical-scroll-proportion="0.20689656" vertical-offset="0" max-vertical-offset="1015">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/views/posts/post_item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="8" selection-start="168" selection-end="168" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/fixtures.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="497" selection-end="497" vertical-scroll-proportion="0.36713287" vertical-offset="0" max-vertical-offset="858">
           <folding />
         </state>
       </provider>

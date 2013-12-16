@@ -14,7 +14,13 @@ if(Posts.find().count() === 0){
 
     Posts.insert({
         title: 'The Meteor Book',
-            author: 'Tom Coleman',
+        author: 'Tom Coleman',
         url: 'http://themeteorbook.com'
+    });
+
+    Posts.insert({
+       title: 'Good SO Q/A',
+       author: 'N/A',
+       url: 'http://stackoverflow.com/questions/16302436/install-nodejs-on-ubuntu-12-10'
     });
 }
